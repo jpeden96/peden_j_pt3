@@ -27,3 +27,14 @@ https://www.inmotionhosting.com/support/website/sending-email-from-site/using-th
 https://stackoverflow.com/questions/6101956/generating-a-random-password-in-php
 
 http://php.net/manual/en/function.password-hash.php
+
+
+## part 3: ##
+
+https://stackoverflow.com/questions/4149569/php-checking-if-the-current-date-is-before-or-after-a-set-date
+
+http://www.pontikis.net/tip/?id=18
+
+http://php.net/manual/en/datetime.diff.php
+
+https://stackoverflow.com/questions/26495193/how-to-add-48-hours-to-a-timestamp
